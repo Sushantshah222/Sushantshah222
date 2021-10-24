@@ -5,4 +5,4 @@
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=sushantshah222&theme=dark&hide_border=true" width = 400>
 </p>
 
-![Sushant's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=gotham=true)
+![Sushant's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sushantshah222&theme=gotham=true)
