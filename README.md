@@ -5,10 +5,12 @@
 
 
 <p align="center">
- <a href="https://www.facebook.com/Sushant.shah222" target="_blank" rel="noopener noreferrer"> <img src="https://user-images.githubusercontent.com/60286504/138819262-e07f8cb5-7033-4fd6-8e26-f193d98945f0.png"
-alt="Facebook" height="50" style="vertical-align:top; margin:4px"> </a>
- <a href="https://linkedin.com/in/sushant-shah" target="_blank" rel="noopener noreferrer"> <img src="https://user-images.githubusercontent.com/60286504/138819608-5ca3201d-1b8c-4168-898b-d5309fc57bd4.png" alt="Linkedin" height="50" style="vertical-align:top; margin:4px"></a>
+ <a href="https://www.facebook.com/Sushant.shah222" target="_blank" rel="noopener noreferrer"> <img src="https://user-images.githubusercontent.com/60286504/138819262-e07f8cb5-7033-4fd6-8e26-f193d98945f0.png" alt="Facebook" height="50" style="vertical-align:top; margin:4px"> </a>
  <a href="mailto:sushant.shah222@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Gmail" height="50" style="vertical-align:top; margin:4px"></a>
+ <a href="https://linkedin.com/in/sushant-shah" target="_blank" rel="noopener noreferrer"> <img src="https://user-images.githubusercontent.com/60286504/138819608-5ca3201d-1b8c-4168-898b-d5309fc57bd4.png" alt="Linkedin" height="50" style="vertical-align:top; margin:4px"></a>
+ <a href="https://www.instagram.com/sushant__shah"> <img src="https://user-images.githubusercontent.com/60286504/138825145-ae83a91f-a8b8-45bb-a488-19b5e77aaf1c.png" alt="Gmail" height="50" style="vertical-align:top; margin:4px"></a>
+ 
+
 </p>
 
 <br />
