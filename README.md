@@ -23,11 +23,14 @@ alt="Facebook" height="50" style="vertical-align:top; margin:4px"> </a>
 <img src="https://user-images.githubusercontent.com/60286504/138821532-f2e1e0ea-e076-4f7e-89a9-9faf93763b7b.png" alt="C++" height="55" style="vertical-align:top; margin:4px">
  
 
-<img src="https://user-images.githubusercontent.com/60286504/138820181-5be61be3-50fc-4360-a6d7-10fb783c3e43.png" alt="Github" height="55" style="vertical-align:top; margin:4px">
+<img src="https://user-images.githubusercontent.com/60286504/138820181-5be61be3-50fc-4360-a6d7-10fb783c3e43.png" alt="Git" height="55" style="vertical-align:top; margin:4px">
+<img src="https://user-images.githubusercontent.com/60286504/138823727-64d50656-4589-489a-9450-2949fad564c3.png" alt="Github" height="55" style="vertical-align:top; margin:4px">
  
 <img src="https://user-images.githubusercontent.com/60286504/138820665-401baafb-1fd6-4550-8f11-b4fbda5e1c9c.png" alt="Open cv" height="55" style="vertical-align:top; margin:4px">
- 
-<img src="https://user-images.githubusercontent.com/60286504/138820760-7f98396f-ddce-41eb-820a-2c7a991d4d77.png" alt="Tesorflow" height="55" style="vertical-align:top; margin:4px">
+
+<img src="https://user-images.githubusercontent.com/60286504/138824269-5c61b376-93a3-47cc-9e01-ff0eca61b592.png" alt="Numpy" height="55" style="vertical-align:top; margin:4px">
+
+ <img src="https://user-images.githubusercontent.com/60286504/138820760-7f98396f-ddce-41eb-820a-2c7a991d4d77.png" alt="Tesorflow" height="55" style="vertical-align:top; margin:4px">
  
  
 <img src="https://user-images.githubusercontent.com/60286504/138820970-cb7625dc-eae5-4af4-a238-3afae65e1756.png" alt="Arduino" height="55" style="vertical-align:top; margin:4px">
