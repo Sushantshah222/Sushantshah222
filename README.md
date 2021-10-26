@@ -6,9 +6,9 @@
 
 <p align="center">
  <a href="https://www.facebook.com/Sushant.shah222" target="_blank" rel="noopener noreferrer"> <img src="https://user-images.githubusercontent.com/60286504/138819262-e07f8cb5-7033-4fd6-8e26-f193d98945f0.png"
-alt="Facebook" height="40" style="vertical-align:top; margin:4px"> </a>
- <a href="https://linkedin.com/in/sushant-shah" target="_blank" rel="noopener noreferrer"> <img src="https://user-images.githubusercontent.com/60286504/138819608-5ca3201d-1b8c-4168-898b-d5309fc57bd4.png" alt="Linkedin" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="mailto:sushant.shah222@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Gmail" height="40" style="vertical-align:top; margin:4px"></a>
+alt="Facebook" height="50" style="vertical-align:top; margin:4px"> </a>
+ <a href="https://linkedin.com/in/sushant-shah" target="_blank" rel="noopener noreferrer"> <img src="https://user-images.githubusercontent.com/60286504/138819608-5ca3201d-1b8c-4168-898b-d5309fc57bd4.png" alt="Linkedin" height="50" style="vertical-align:top; margin:4px"></a>
+ <a href="mailto:sushant.shah222@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Gmail" height="50" style="vertical-align:top; margin:4px"></a>
 </p>
 
 <br />
@@ -32,13 +32,16 @@ alt="Facebook" height="40" style="vertical-align:top; margin:4px"> </a>
 <img src="https://user-images.githubusercontent.com/60286504/138820970-cb7625dc-eae5-4af4-a238-3afae65e1756.png" alt="Arduino" height="55" style="vertical-align:top; margin:4px">
 
 </p>
+<br><hr>
+
 
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=sushantshah222&show_icons=true&theme=chartreuse-dark" width = 400>
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=sushantshah222&theme=chartreuse-dark&hide_border=true" width = 400>
-</p>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=sushantshah222&theme=chartreuse-dark&hide_border=true" width = 400><br>
 
+ 
+</p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sushantshah222&layout=compact)](https://github.com/Sushantshah222/github-readme-stats)
 
