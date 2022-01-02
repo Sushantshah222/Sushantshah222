@@ -5,7 +5,7 @@
 - 👀 I’m interested in Robotics and Machine Learning and Computer vision
 - 🌱 I’m currently studing Electronics Communication and Information Engineering
 - 💞️ I’m looking to collaborate on various production level ML projects
-- 📫 How to reach me sushant.shah222@gmail.com , www.linkedin.com/in/sushant-shah/
+- 📫 How to reach me via: sushant.shah222@gmail.com , www.linkedin.com/in/sushant-shah/
 
 
  ##  ✉️ Find me on:
