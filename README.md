@@ -2,7 +2,7 @@
 <br>
 
 <!-- - 👋 Hi, I’m @Sushant Shah -->
-- 👀 I’m interested in Robotics and Machine Learning and Computer vision
+- 👀 I’m  Robotics and Machine Learning and Computer vision enthusiasts
 - 🌱 I’m currently studing Electronics Communication and Information Engineering
 - 💞️ I’m currently working on "Computer Vision based Robotic Arm"
 - 📫 How to reach me via: sushant.shah222@gmail.com , www.linkedin.com/in/sushant-shah/
