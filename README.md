@@ -5,7 +5,7 @@
 - 👀 I’m  Robotics, Machine Learning and Computer vision enthusiasts
 - 🌱 Completed Electronics Communication and Information Engineering
 - 💞️ I’m currently working on "Computer Vision based Robotic Arm"
-- 📫 How to reach me: sushantshah@duck.com , www.linkedin.com/in/sushant-shah/
+- 📫 How to reach me: sushantshah@duck.com , www.linkedin.com/in/sushant-shah/, https://www.facebook.com/Sushant.shah222
 
 
  ##  ✉️ Find me on:
