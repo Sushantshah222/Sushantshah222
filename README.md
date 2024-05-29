@@ -3,7 +3,7 @@
 
 <!-- - 👋 Hi, I’m @Sushant Shah -->
 - 👀 I’m  Robotics, Machine Learning and Computer vision enthusiasts
-- 🌱 I’m currently studing Electronics Communication and Information Engineering
+- 🌱 Completed Electronics Communication and Information Engineering
 - 💞️ I’m currently working on "Computer Vision based Robotic Arm"
 - 📫 How to reach me: sushantshah@duck.com , www.linkedin.com/in/sushant-shah/
 
